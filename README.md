@@ -22,4 +22,4 @@ Atau mulai belajar Git dari awal:
 - [Cara Berkontribusi pada Proyek Open Source di Github](https://www.petanikode.com/github-workflow/)
 
 Ingin belajar tentang pemrograman lainnya? Silahkan kunjungi website [Petani Kode](https://www.petanikode.com)
-Semangat terus belajar!!
+Semangat terus belajar!! Jangan mudah menyerah.!!
